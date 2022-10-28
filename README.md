@@ -24,9 +24,10 @@ Overview of the analysis:
 1. Explain the purpose of this analysis.
 2. Provide a bulleted list with four major points from the two analysis deliverables.
 3. Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+
+The purpose of this analysis is to prepare Pewlett-Hackard for the impending retirement of a significant portion of the company’s work force within a few short years. Pewlett-Hackard needs to prepare for the inevitable, and needs comprehensive analysis of what measures the company needs to take to remain operational. 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 The ‘Retirement Titles’ provide much insight into the approaching issue of retiring employees. Every department is going to be impacted by these retirements, and through analysis, I have discovered how many future employees each department is going to need to fill. Export of the 'Retiring Titles' table, which corresponds with the 'retiring_titles.csv.' ![retiring_titles](https://user-images.githubusercontent.com/67697826/198503053-52ef2c1e-1813-4816-8791-b9c42c556039.png)
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
 In my opinion, based on my analysis, there will be shortages of qualified staff to mentor the new and current employees needed to replace them.
