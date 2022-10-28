@@ -14,5 +14,5 @@ Below is an export of the "Retirement Titles" table, which corresponds with the 
 
 
 Deliverable 2: The Employees Eligible for the Mentorship Program
-Below is an export of the "Unique Titles" table, which corresponds with the 'Unique_titles.csv.'
-![Uploading unique_titles.png…]()
+Below is an export of the "Unique Titles" table, which corresponds with the 'unique_titles.csv.'
+![unique_titles](https://user-images.githubusercontent.com/67697826/198502534-76ebced5-7a4a-482a-bb6b-915053fe0bd6.png)
