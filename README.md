@@ -5,10 +5,16 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 What You're Creating
 This new assignment consists of two technical analysis deliverables and a written report. You will submit the following:
 
-Deliverable 1: The Number of Retiring Employees by Title
-Deliverable 2: The Employees Eligible for the Mentorship Program
+
+
 Deliverable 3: A written report on the employee database analysis (README.md)
 
 Deliverable 1:
-Below is an export of the "Retirement Titles" table, which corresponds with the 'retirement_titles.csv.'
+Below is an export of the "Retirement Titles" table, which corresponds with the 'retirement_titles.csv.'![unique_titles](https://user-images.githubusercontent.com/67697826/198502212-5e594c15-30e8-4011-97bd-0e4b1fd3fda9.png)
+
 ![retirement_titles](https://user-images.githubusercontent.com/67697826/198498031-0fcc34a9-4f88-4856-bf9e-17591dcee04b.png)
+
+
+Deliverable 2: The Employees Eligible for the Mentorship Program
+Below is an export of the "Unique Titles" table, which corresponds with the 'Unique_titles.csv.'
+![Uploading unique_titles.png…]()
