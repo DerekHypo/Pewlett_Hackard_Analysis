@@ -28,3 +28,9 @@ Export of the 'Retiring Titles' table, which corresponds with the 'retiring_titl
 
 Deliverable 2:![mentorship_eligibility](https://user-images.githubusercontent.com/67697826/198503811-2fe510a4-2f88-4d46-b2d0-019ce0341bf5.png)
 
+Deliverable 3:
+Overview of the analysis: Explain the purpose of this analysis.
+Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
