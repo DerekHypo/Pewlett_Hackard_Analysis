@@ -17,15 +17,6 @@ Export of the 'Retirement Titles' table, which corresponds with the 'retirement_
 
 Export of the 'Unique_Titles' table, which corresponds with the 'unique_titles.csv.' ![unique_titles](https://user-images.githubusercontent.com/67697826/198502534-76ebced5-7a4a-482a-bb6b-915053fe0bd6.png)
 
-
-
-
-
-Export of the 'Retiring Titles' table, which corresponds with the 'retiring_titles.csv.' ![retiring_titles](https://user-images.githubusercontent.com/67697826/198503053-52ef2c1e-1813-4816-8791-b9c42c556039.png)
-
-
-
-
 Deliverable 2:![mentorship_eligibility](https://user-images.githubusercontent.com/67697826/198503811-2fe510a4-2f88-4d46-b2d0-019ce0341bf5.png)
 
 Deliverable 3:
@@ -34,4 +25,6 @@ Overview of the analysis:
 2. Provide a bulleted list with four major points from the two analysis deliverables.
 3. Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+The ‘Retirement Titles’ provide much insight into the approaching issue of retiring employees. Every department is going to be impacted by these retirements, and through analysis, I have discovered how many future employees each department is going to need to fill. Export of the 'Retiring Titles' table, which corresponds with the 'retiring_titles.csv.' ![retiring_titles](https://user-images.githubusercontent.com/67697826/198503053-52ef2c1e-1813-4816-8791-b9c42c556039.png)
+
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
