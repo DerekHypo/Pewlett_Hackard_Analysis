@@ -26,7 +26,6 @@ Export of the 'Retiring Titles' table, which corresponds with the 'retiring_titl
 
 
 
-
 Deliverable 2:![mentorship_eligibility](https://user-images.githubusercontent.com/67697826/198503811-2fe510a4-2f88-4d46-b2d0-019ce0341bf5.png)
 
 
