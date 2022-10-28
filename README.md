@@ -5,10 +5,6 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 What You're Creating
 This new assignment consists of two technical analysis deliverables and a written report. You will submit the following:
 
-
-
-Deliverable 3: A written report on the employee database analysis (README.md)
-
 Deliverable 1:
 Export of the 'Retirement Titles' table, which corresponds with the 'retirement_titles.csv.'![unique_titles](https://user-images.githubusercontent.com/67697826/198502212-5e594c15-30e8-4011-97bd-0e4b1fd3fda9.png)
 
@@ -20,3 +16,9 @@ Export of the 'Retirement Titles' table, which corresponds with the 'retirement_
 
 
 Export of the 'Unique_Titles' table, which corresponds with the 'unique_titles.csv.' ![unique_titles](https://user-images.githubusercontent.com/67697826/198502534-76ebced5-7a4a-482a-bb6b-915053fe0bd6.png)
+
+
+
+
+
+Export of the 'Retiring Titles' table, which corresponds with the 'retiring_titles.csv.' ![retiring_titles](https://user-images.githubusercontent.com/67697826/198503053-52ef2c1e-1813-4816-8791-b9c42c556039.png)
