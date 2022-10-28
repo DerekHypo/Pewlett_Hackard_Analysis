@@ -11,4 +11,12 @@ Deliverable 3: A written report on the employee database analysis (README.md)
 
 Deliverable 1:
 Export of the 'Retirement Titles' table, which corresponds with the 'retirement_titles.csv.'![unique_titles](https://user-images.githubusercontent.com/67697826/198502212-5e594c15-30e8-4011-97bd-0e4b1fd3fda9.png)
+
+
+
+
+
+
+
+
 Export of the 'Unique_Titles' table, which corresponds with the 'unique_titles.csv.' ![unique_titles](https://user-images.githubusercontent.com/67697826/198502534-76ebced5-7a4a-482a-bb6b-915053fe0bd6.png)
