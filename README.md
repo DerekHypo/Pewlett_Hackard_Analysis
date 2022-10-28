@@ -1,14 +1,14 @@
 # Pewlett_Hackard_Analysis
-Build a retiring employee database with SQL by applying data modeling, engineering, and analysis skills.
+Background
+Now that Bobby has proven his SQL chops, his manager has given both of you two more assignments: determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, you’ll write a report that summarizes your analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
 
+What You're Creating
+This new assignment consists of two technical analysis deliverables and a written report. You will submit the following:
 
+Deliverable 1: The Number of Retiring Employees by Title
+Deliverable 2: The Employees Eligible for the Mentorship Program
+Deliverable 3: A written report on the employee database analysis (README.md)
 
-
-
-
-
-
-
-
-
+Deliverable 1:
+Below is an export of the "Retirement Titles" table, which corresponds with the 'retirement_titles.csv.'
 ![retirement_titles](https://user-images.githubusercontent.com/67697826/198498031-0fcc34a9-4f88-4856-bf9e-17591dcee04b.png)
